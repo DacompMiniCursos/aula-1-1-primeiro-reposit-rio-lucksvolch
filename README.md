@@ -12,3 +12,5 @@ Aprendendo commits.
 ## Tecnologias
 - Git
 - GitHub
+Objetivo
+Aprender Git e GitHub na prática.
