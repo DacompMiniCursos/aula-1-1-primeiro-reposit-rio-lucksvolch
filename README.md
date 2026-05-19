@@ -16,3 +16,6 @@ Objetivo
 Aprender Git e GitHub na prática.
 Status
 Projeto em desenvolvimento.
+
+Aprendizado
+Uso de git diff e git log.
