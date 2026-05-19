@@ -14,3 +14,5 @@ Aprendendo commits.
 - GitHub
 Objetivo
 Aprender Git e GitHub na prática.
+Status
+Projeto em desenvolvimento.
